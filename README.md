@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ameyak07
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front end Web development
+- 👋 Hi, I’m Ameya Kusalkar
+- 👀 I’m interested in WEB DEVELOPMENT
+- 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ameyakusalkar9063@gmail.com
 
