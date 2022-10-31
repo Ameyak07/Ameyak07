@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ameya Kusalkar
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👀 I’m interested in FRONT_END WEB DEVELOPMENT
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ameyakusalkar9063@gmail.com
