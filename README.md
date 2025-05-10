@@ -1,25 +1,27 @@
 <h1 align="center">Hi there, I'm Ameya Kusalkar 👋</h1>
 
 <p align="center">
-🌍 Hatfield, UK &nbsp; | &nbsp; 💻 Web Developer Enthusiast &nbsp; | &nbsp; 🎓 MSc in Computer Science
+🎨 Front-End Developer &nbsp; | &nbsp; 💻 Web Developer Enthusiast &nbsp; | &nbsp; 🌏 Based in United Kingdom
 </p>
-
----
-
-### 🧑‍💻 About Me
-
-I’m a React.js enthusiast with a strong foundation in front-end technologies and a passion for building responsive and performant web applications. With hands-on internship experience and a Master's in Computer Science, I focus on creating seamless user experiences and modern UIs.
-
-I’m currently seeking full-time Web Developer roles in the UK and am authorized to work without sponsorship.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL, C, C++
-- **Frameworks & Libraries:** React.js, Bootstrap, jQuery, Tailwind CSS, Redux
-- **Tools & Platforms:** Git, GitHub, Vite, Visual Studio Code, Jest, Chrome DevTools
-- **Concepts:** Responsive Web Design, Agile Development, Version Control
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+
 
 ---
 
@@ -52,13 +54,4 @@ I’m currently seeking full-time Web Developer roles in the UK and am authorize
 
 ---
 
-### 🎓 Certifications
-
-- jQuery Ultimate Guide (Sept 2024)  
-- HTML5 & CSS3 Ultimate Courses (2021)  
-- HTML & CSS for Beginners (2021)  
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
